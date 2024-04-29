@@ -1,2 +1,0 @@
-# PracticaDocker
-Ingeniería en Software
